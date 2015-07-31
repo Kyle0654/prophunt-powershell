@@ -1,5 +1,5 @@
-# PropHuntPowershell
-Set up a PropHunt server from scratch with a Powershell script.
+# PropHunt PowerShell
+Set up a PropHunt server from scratch with a PowerShell script.
 
 ## Usage
 To set up a PropHunt server, follow these steps:
